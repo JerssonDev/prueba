@@ -1,5 +1,11 @@
 # Introducción a Git
 
+## Zonas de Git
+
+1. Working Directory
+2. Staging Area
+3. Git Directory (Repositorio)
+
 ## Flujo de Trabajo
 
 1. Se modifica los archivo en el Proyecto(directorio).
