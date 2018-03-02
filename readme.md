@@ -1,5 +1,8 @@
 # Introducción a Git
 
+## ¿Qué es Git?
+Es un sistema de control de versiones para el mantenimiento eficiente y confiable de archivos
+
 ## Zonas de Git
 
 1. Working Directory
