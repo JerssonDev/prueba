@@ -39,3 +39,4 @@ user.email=jersson926@gmail.com
 core.editor=vim
 [mendoza@Jersson ~]$ 
 ```
+% ramas
