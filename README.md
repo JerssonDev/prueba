@@ -39,3 +39,10 @@ user.email=jersson926@gmail.com
 core.editor=vim
 [mendoza@Jersson ~]$ 
 ```
+
+# Conexion de git con un repositorio en Github
+
+## git remote add origin <"urldelrepo">
+te conectas con el repositorio remoto en github
+`origin/master` es una rama oculta, una rama del sistema con github, para ver las ramas ocultas ejecutamos `git branch --all`
+
