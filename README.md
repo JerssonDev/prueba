@@ -46,3 +46,13 @@ core.editor=vim
 te conectas con el repositorio remoto en github
 `origin/master` es una rama oculta, una rama del sistema con github, para ver las ramas ocultas ejecutamos `git branch --all`
 
+## pasos para aportar a otro repositorio
+1. Hacer un Fork en Github.
+2. Clonar el repositorio desde mi cuenta de Github.
+3. Crea una rama local con un nombre de preferencia.
+4. realizar cambios en la nueva rama local.
+5. Confirmar los cambios realizados en local
+6. Hacer  push de los cambios (enviar los comits al fork).
+7. git push origin <"nombre_rama">
+8. crear un pull reuqest con la nueva rama del fork del repositorio en Github 
+9. Esperar a que el administrador acepte los cambios del pull request
