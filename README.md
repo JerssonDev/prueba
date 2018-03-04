@@ -57,4 +57,4 @@ te conectas con el repositorio remoto en github
 8. crear un pull reuqest con la nueva rama del fork del repositorio en Github 
 9. Esperar a que el administrador acepte los cambios del pull request
 
-# Agregada key ssh
+# Agregada key ssh remote
